@@ -26,6 +26,11 @@ Text Domain:hitchcock
     background: linear-gradient(to bottom, rgba(29,29,29,0.2) 0%,rgba(29,29,29,0.7) 100%);
 }
 
+.social-menu.li.a::before{
+    content: /f268;
+    
+}
+
 /*Arquivos Página Inicial*/
 
 .archive-post-date{
