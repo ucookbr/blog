@@ -11,7 +11,11 @@ Tags: responsive-layout, food, cooking, diabetes, light-sidebar, responsive-layo
 Text Domain:hitchcock
 */
 
-
+/*Página de Publicação*/
 .post-container{
+    border-radius: 20px;
+}
+
+.comment-respond{
     border-radius: 20px;
 }
