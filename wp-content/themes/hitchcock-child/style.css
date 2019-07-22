@@ -10,3 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: responsive-layout, food, cooking, diabetes, light-sidebar, responsive-layout, accessibility-ready, landing-page
 Text Domain:hitchcock
 */
+
+
+.post-container{
+    border-radius: 20px;
+}
