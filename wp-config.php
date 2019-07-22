@@ -26,7 +26,7 @@ define( 'DB_NAME', 'u425014227_blog' );
 define( 'DB_USER', 'u425014227_ucook' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'wJGzHD6pjZtQAeecRI' );
+define( 'DB_PASSWORD', ']mVyp89QXcgQPS&ilD' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
