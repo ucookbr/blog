@@ -16,6 +16,6 @@ Text Domain:hitchcock
     border-radius: 20px;
 }
 
-.comments-inner+.comment-respond{
-    border-radius: 20px;
+.comments-container{
+    border-radius: 0 20px;
 }
