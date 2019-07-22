@@ -11,6 +11,12 @@ Tags: responsive-layout, food, cooking, diabetes, light-sidebar, responsive-layo
 Text Domain:hitchcock
 */
 
+/*Index*/
+.blog-title{
+    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif 
+}
+
+
 /*Página de Publicação*/
 .post-container{
     border-radius: 20px;
