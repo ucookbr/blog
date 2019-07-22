@@ -11,62 +11,71 @@ Tags: responsive-layout, food, cooking, diabetes, light-sidebar, responsive-layo
 Text Domain:hitchcock
 */
 
-
-
 /*Search*/
 .main-menu a {
-    display: none !important;
+  display: none !important;
 }
 
 /*Voltar quando tiver o menu pronto*/
 .navigation {
-    display: none;
+  display: none;
 }
-
 
 /*Index*/
-.blog-title a{
-    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    font-size: 2.5em;
+.blog-title a {
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 2.5em;
 }
 
-.blog-description{
-    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    font-size: 28px;
+.blog-description {
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 28px;
 }
 
-.header-image{
-    background: linear-gradient(to bottom, rgba(29,29,29,0.2) 0%,rgba(29,29,29,0.7) 100%);
+.header-image {
+  background: linear-gradient(
+    to bottom,
+    rgba(29, 29, 29, 0.2) 0%,
+    rgba(29, 29, 29, 0.7) 100%
+  );
 }
 
 /*Arquivos Página Inicial*/
 
-.archive-post-date{
-    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+.archive-post-date {
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
-.archive-post-title{
-    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+.archive-post-title {
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 /*Página de Publicação*/
-.post-container{
-    border-radius: 20px;
-    font-family: -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+.post-container {
+  border-radius: 20px;
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
-.post-content{
-    font-family: -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-    font-size: 1.2em;
+.post-content {
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.2em;
 }
 
-.comments-container{
-    border-radius: 0 0 20px 20px;
-    font-family: -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+.comments-container {
+  border-radius: 0 0 20px 20px;
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 /*Footer*/
 
-.credits{
-    font-family: -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+.credits {
+  font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
 }
