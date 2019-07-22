@@ -12,10 +12,14 @@ Text Domain:hitchcock
 */
 
 /*Index*/
-.blog-title{
+.blog-title a{
     font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif 
 }
 
+.blog-description{
+    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 28px;
+}
 
 /*Página de Publicação*/
 .post-container{
