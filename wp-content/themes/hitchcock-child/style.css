@@ -22,6 +22,16 @@ Text Domain:hitchcock
     font-size: 28px;
 }
 
+/*Arquivos Página Inicial*/
+
+.archive-post-date{
+    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.archive-post-title{
+    font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
 /*Página de Publicação*/
 .post-container{
     border-radius: 20px;
