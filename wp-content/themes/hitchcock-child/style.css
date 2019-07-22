@@ -15,7 +15,7 @@ Text Domain:hitchcock
 
 /*Search*/
 .main-menu a {
-    display: none;
+    display: none !important;
 }
 
 /*Index*/
