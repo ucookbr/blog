@@ -18,6 +18,12 @@ Text Domain:hitchcock
     display: none !important;
 }
 
+/*Voltar quando tiver o menu pronto*/
+.navigation {
+    display: none;
+}
+
+
 /*Index*/
 .blog-title a{
     font-family:  -apple-system,'system-ui','BlinkMacSystemFont',"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
