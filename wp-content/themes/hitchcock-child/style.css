@@ -55,6 +55,11 @@ Text Domain:hitchcock
 }
 
 /*Página de Publicação*/
+
+.featured-media img {
+  border-radius: 20px;
+}
+
 .post-container {
   border-radius: 20px;
   font-family: -apple-system, "system-ui", "BlinkMacSystemFont", "Segoe UI",
