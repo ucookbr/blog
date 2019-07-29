@@ -57,7 +57,7 @@ Text Domain:hitchcock
 /*Página de Publicação*/
 
 .featured-media img {
-  border-radius: 20px;
+  border-radius: 20px !important;
 }
 
 .post-container {
